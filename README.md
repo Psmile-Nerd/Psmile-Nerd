@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Precious Awoleye</h1>
-![Precious Awoleye](https://github.com/user-attachments/assets/af152d4e-bb90-4084-b396-6b93fc459885)
-
 <h3 align="center">A passionate Data Analyst, skilled in problem solving.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=psmile-nerd&label=Profile%20views&color=0e75b6&style=flat" alt="psmile-nerd" /> </p>
