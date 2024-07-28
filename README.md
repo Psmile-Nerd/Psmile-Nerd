@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/preciousawoleye" target="blank"><img src="https://img.shields.io/twitter/follow/preciousawoleye?logo=twitter&style=for-the-badge" alt="preciousawoleye" /></a> </p>
 
-- 🌱 I’m currently learning **PowerBi,SQL, R Language**
+- 🌱 I’m currently learning **PowerBi, SQL, R Language**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Psmile-Nerd](https://github.com/Psmile-Nerd)
 
