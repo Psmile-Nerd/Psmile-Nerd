@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Precious Awoleye</h1>
-<h3 align="center">A passionate Data Analyst, skilled in problem solving.</h3>
+<h3 align="center">With my math expertise, I extract insights from data to make informed decisions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=psmile-nerd&label=Profile%20views&color=0e75b6&style=flat" alt="psmile-nerd" /> </p>
 
