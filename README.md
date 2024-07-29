@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Precious Awoleye</h1>
-<h3 align="center">With my math expertise, I extract insights from data to make informed decisions.</h3>
+<h3 align="center">I am a Mathematician and I extract insights from data to make informed decisions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=psmile-nerd&label=Profile%20views&color=0e75b6&style=flat" alt="psmile-nerd" /> </p>
 
 <p align="left"> <a href="https://twitter.com/preciousawoleye" target="blank"><img src="https://img.shields.io/twitter/follow/preciousawoleye?logo=twitter&style=for-the-badge" alt="preciousawoleye" /></a> </p>
-
-- 🌱 I’m currently learning **PowerBi,SQL, R Language**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Psmile-Nerd](https://github.com/Psmile-Nerd)
 
@@ -34,4 +32,3 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
